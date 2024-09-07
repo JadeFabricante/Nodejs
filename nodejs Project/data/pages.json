@@ -1,0 +1,21 @@
+{
+    "home": {
+        "title": "Home",
+        "message": "Welcome to Home Page!"
+    },
+
+    "about": {
+        "title": "About us",
+        "message": "Learn more about us here"
+    },
+
+    "contact": {
+        "title": "Contact us",
+        "message": "Reach us out"
+    },
+
+    "services": {
+        "title": "Sevices",
+        "message": "Here is our Services"
+    }
+}
